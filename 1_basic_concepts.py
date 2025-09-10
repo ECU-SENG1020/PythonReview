@@ -25,6 +25,7 @@ print(greet())
 
 
 
-
-
+items = [1,2,3]
+items2 = items * 2
+print(items2)
 
